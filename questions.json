@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "fop-001",
+    "exam": "FOP",
+    "topic": "Respiratory",
+    "difficulty": "Foundation",
+    "stem": "An 8-month-old has coryza followed by cough, wheeze and fine inspiratory crackles in winter. What is the most likely diagnosis?",
+    "choices": [
+      "Foreign-body aspiration",
+      "Pulmonary oedema",
+      "Acute bronchiolitis",
+      "Bacterial epiglottitis",
+      "Acute laryngitis"
+    ],
+    "answer": 2,
+    "explanation": "Bronchiolitis is a clinical diagnosis in infants, usually following an upper respiratory prodrome and featuring wheeze or crackles. The degree of work of breathing and hydration determine management.",
+    "reference_title": "NICE guideline NG9: Bronchiolitis in children",
+    "reference_url": "https://www.nice.org.uk/guidance/ng9",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "fop-002",
+    "exam": "FOP",
+    "topic": "Respiratory",
+    "difficulty": "Foundation",
+    "stem": "A 2-year-old has a barking cough, hoarse voice and inspiratory stridor after a viral prodrome. Which diagnosis best fits?",
+    "choices": [
+      "Viral croup",
+      "Pertussis",
+      "Bacterial pneumonia",
+      "Bronchiolitis",
+      "Asthma exacerbation"
+    ],
+    "answer": 0,
+    "explanation": "Croup causes upper-airway inflammation, producing barking cough, hoarseness and often inspiratory stridor. Assess severity and airway distress before choosing treatment.",
+    "reference_title": "NHS: Croup overview",
+    "reference_url": "https://www.nhs.uk/conditions/croup/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "fop-003",
+    "exam": "FOP",
+    "topic": "Cardiology",
+    "difficulty": "Foundation",
+    "stem": "A child has a harsh pansystolic murmur loudest at the lower left sternal border. Which lesion is most likely?",
+    "choices": [
+      "Pulmonary valve stenosis",
+      "Atrial septal defect",
+      "Patent ductus arteriosus",
+      "Coarctation of the aorta",
+      "Ventricular septal defect"
+    ],
+    "answer": 4,
+    "explanation": "A ventricular septal defect produces a pansystolic murmur at the lower left sternal edge as blood flows from the left to right ventricle during systole.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "fop-004",
+    "exam": "FOP",
+    "topic": "Cardiology",
+    "difficulty": "Foundation",
+    "stem": "An asymptomatic school-aged child has a fixed split second heart sound and an ejection systolic murmur at the upper left sternal edge. Which diagnosis is likely?",
+    "choices": [
+      "Aortic regurgitation",
+      "Ventricular septal defect",
+      "Mitral stenosis",
+      "Atrial septal defect",
+      "Patent ductus arteriosus"
+    ],
+    "answer": 3,
+    "explanation": "A fixed split second heart sound is characteristic of an atrial septal defect because right ventricular filling varies little with respiration in the presence of the shunt.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "fop-005",
+    "exam": "FOP",
+    "topic": "Cardiology",
+    "difficulty": "Intermediate",
+    "stem": "A school child is hypertensive in both arms but has weak femoral pulses and lower blood pressure in the legs. What is the most likely condition?",
+    "choices": [
+      "Atrial septal defect",
+      "Patent ductus arteriosus",
+      "Mitral regurgitation",
+      "Coarctation of the aorta",
+      "Pulmonary hypertension"
+    ],
+    "answer": 3,
+    "explanation": "Coarctation creates an obstruction distal to vessels supplying the arms, resulting in higher upper-limb pressure and delayed or diminished femoral pulses.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "fop-006",
+    "exam": "FOP",
+    "topic": "Cardiology",
+    "difficulty": "Foundation",
+    "stem": "A continuous machinery-like murmur is heard beneath the left clavicle in a preterm infant. Which lesion is classically responsible?",
+    "choices": [
+      "Aortic stenosis",
+      "Pulmonary stenosis",
+      "Ventricular septal defect",
+      "Patent ductus arteriosus",
+      "Tricuspid regurgitation"
+    ],
+    "answer": 3,
+    "explanation": "A persistent ductus permits blood flow between aorta and pulmonary artery through systole and diastole, generating a continuous murmur.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-007",
+    "exam": "FOP",
+    "topic": "Neonatology",
+    "difficulty": "Foundation",
+    "stem": "A well term neonate develops visible jaundice at 8 hours of life. Which statement is most appropriate?",
+    "choices": [
+      "This is always physiological jaundice",
+      "No bilirubin measurement is necessary",
+      "Phototherapy is never required before day three",
+      "Jaundice within the first 24 hours requires urgent assessment",
+      "Breast milk jaundice is the most likely cause"
+    ],
+    "answer": 3,
+    "explanation": "Jaundice in the first 24 hours is not considered physiological and warrants prompt measurement of bilirubin and investigation according to the clinical context.",
+    "reference_title": "NICE guideline CG98: Jaundice in newborn babies",
+    "reference_url": "https://www.nice.org.uk/guidance/cg98",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-008",
+    "exam": "FOP",
+    "topic": "Gastroenterology",
+    "difficulty": "Foundation",
+    "stem": "A 5-week-old has progressive projectile non-bilious vomiting and persistent hunger. Which acid-base abnormality is classically expected?",
+    "choices": [
+      "Respiratory acidosis",
+      "High anion-gap metabolic acidosis",
+      "Respiratory alkalosis",
+      "Hypochloraemic metabolic alkalosis",
+      "Hyperchloraemic metabolic acidosis"
+    ],
+    "answer": 3,
+    "explanation": "Gastric hydrochloric acid loss in hypertrophic pyloric stenosis leads to hypochloraemic, often hypokalaemic, metabolic alkalosis.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-009",
+    "exam": "FOP",
+    "topic": "Gastroenterology",
+    "difficulty": "Intermediate",
+    "stem": "A 9-month-old has episodes of severe colicky abdominal pain, pulls the knees up and then appears comfortable between episodes. What is an important diagnosis to exclude?",
+    "choices": [
+      "Infantile colic",
+      "Gastro-oesophageal reflux",
+      "Functional constipation",
+      "Intussusception",
+      "Meckel diverticulum without complications"
+    ],
+    "answer": 3,
+    "explanation": "Intussusception commonly causes intermittent severe abdominal pain with periods of apparent improvement. Bloody stool can develop but is not always present.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-010",
+    "exam": "FOP",
+    "topic": "Gastroenterology",
+    "difficulty": "Foundation",
+    "stem": "A newborn has abdominal distension and does not pass meconium in the first 48 hours. Rectal biopsy later shows no ganglion cells. What is the diagnosis?",
+    "choices": [
+      "Necrotising enterocolitis",
+      "Meconium ileus due solely to dietary factors",
+      "Pyloric stenosis",
+      "Hirschsprung disease",
+      "Malrotation without volvulus"
+    ],
+    "answer": 3,
+    "explanation": "Hirschsprung disease is caused by congenital absence of enteric ganglion cells, producing functional distal intestinal obstruction.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-011",
+    "exam": "FOP",
+    "topic": "Endocrinology",
+    "difficulty": "Foundation",
+    "stem": "A young infant has poor feeding, prolonged jaundice, hypotonia and a large tongue. Which treatable endocrine diagnosis must be considered?",
+    "choices": [
+      "Hyperthyroidism",
+      "Diabetes insipidus",
+      "Congenital adrenal hyperplasia alone",
+      "Hyperparathyroidism",
+      "Congenital hypothyroidism"
+    ],
+    "answer": 4,
+    "explanation": "Congenital hypothyroidism can present with prolonged jaundice, hypotonia and macroglossia; early identification and levothyroxine treatment prevent neurodevelopmental harm.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-012",
+    "exam": "FOP",
+    "topic": "Endocrinology",
+    "difficulty": "Foundation",
+    "stem": "A child has polyuria, polydipsia, weight loss and hyperglycaemia. Which additional finding establishes diabetic ketoacidosis?",
+    "choices": [
+      "Raised HbA1c alone",
+      "A positive family history of diabetes",
+      "Glucose in urine without ketones",
+      "Ketonaemia with metabolic acidosis",
+      "Isolated mild dehydration"
+    ],
+    "answer": 3,
+    "explanation": "DKA is defined by hyperglycaemia, ketonaemia or significant ketonuria, and metabolic acidosis. Hyperglycaemia alone does not establish DKA.",
+    "reference_title": "NICE guideline NG18: Diabetes in children and young people",
+    "reference_url": "https://www.nice.org.uk/guidance/ng18",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-013",
+    "exam": "FOP",
+    "topic": "Renal",
+    "difficulty": "Foundation",
+    "stem": "A child develops periorbital oedema, marked proteinuria and low plasma albumin with preserved blood pressure. Which syndrome is most likely?",
+    "choices": [
+      "Diabetes insipidus",
+      "Renal tubular acidosis",
+      "Acute glomerular failure without proteinuria",
+      "Nephrotic syndrome",
+      "Nephritic syndrome"
+    ],
+    "answer": 3,
+    "explanation": "Nephrotic syndrome features heavy proteinuria causing hypoalbuminaemia and oedema; children may have hyperlipidaemia as well.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-014",
+    "exam": "FOP",
+    "topic": "Renal",
+    "difficulty": "Intermediate",
+    "stem": "A 7-year-old develops palpable purpura on the legs, ankle pain and colicky abdominal pain after a respiratory illness. What is the most likely diagnosis?",
+    "choices": [
+      "Juvenile dermatomyositis",
+      "Meningococcal septicaemia without systemic illness",
+      "Immune thrombocytopenia alone",
+      "IgA vasculitis",
+      "Scarlet fever"
+    ],
+    "answer": 3,
+    "explanation": "IgA vasculitis causes non-thrombocytopenic palpable purpura, often with joint, abdominal and renal involvement. Urine and blood pressure assessment are important.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-015",
+    "exam": "FOP",
+    "topic": "Infectious diseases",
+    "difficulty": "Foundation",
+    "stem": "A child has at least 5 days of fever, bilateral non-purulent conjunctivitis, cracked lips and swollen hands. Which diagnosis should be considered?",
+    "choices": [
+      "Scarlet fever alone",
+      "Measles without a rash",
+      "Rubella",
+      "Kawasaki disease",
+      "Roseola infantum"
+    ],
+    "answer": 3,
+    "explanation": "Kawasaki disease is a systemic vasculitis associated with prolonged fever and mucocutaneous features. Recognition matters because untreated inflammation can damage coronary arteries.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-016",
+    "exam": "FOP",
+    "topic": "Haematology",
+    "difficulty": "Foundation",
+    "stem": "A toddler who drinks large quantities of cow's milk has pallor, low haemoglobin and low mean corpuscular volume. What is the most likely deficiency?",
+    "choices": [
+      "Folate deficiency",
+      "Factor VIII deficiency",
+      "Vitamin K deficiency",
+      "Iron deficiency",
+      "Vitamin B12 deficiency"
+    ],
+    "answer": 3,
+    "explanation": "Excess cow's milk intake can displace iron-rich foods in toddlers; iron deficiency commonly causes microcytic, hypochromic anaemia.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-017",
+    "exam": "FOP",
+    "topic": "Haematology",
+    "difficulty": "Intermediate",
+    "stem": "A 12-month-old with sickle cell disease develops painful swelling of both hands and feet. What is this manifestation called?",
+    "choices": [
+      "Rickets",
+      "Reactive arthritis",
+      "Erythema nodosum",
+      "Dactylitis",
+      "Haemarthrosis"
+    ],
+    "answer": 3,
+    "explanation": "Sickle cell dactylitis is painful infarction affecting small bones of the hands and feet, often an early manifestation of HbSS in infancy.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-018",
+    "exam": "FOP",
+    "topic": "Genetics",
+    "difficulty": "Foundation",
+    "stem": "A neonate has hypotonia, characteristic facial features and a single transverse palmar crease. Which chromosomal condition is most likely?",
+    "choices": [
+      "Trisomy 18",
+      "Trisomy 13",
+      "Klinefelter syndrome",
+      "Trisomy 21",
+      "Monosomy X"
+    ],
+    "answer": 3,
+    "explanation": "Down syndrome is most commonly caused by trisomy 21. Diagnosis requires appropriate chromosomal testing rather than appearance alone.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-019",
+    "exam": "FOP",
+    "topic": "Genetics",
+    "difficulty": "Foundation",
+    "stem": "A girl has short stature, a webbed neck and coarctation of the aorta. Which chromosomal abnormality is most associated?",
+    "choices": [
+      "47,XXX",
+      "47,XXY",
+      "Trisomy 21",
+      "Trisomy 18",
+      "45,X"
+    ],
+    "answer": 4,
+    "explanation": "Turner syndrome often has a 45,X karyotype and may feature short stature and congenital left-sided cardiac lesions.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-020",
+    "exam": "FOP",
+    "topic": "Immunology",
+    "difficulty": "Intermediate",
+    "stem": "An infant has recurrent severe infections and profound T-cell lymphopenia. Which immunisation category should usually be avoided pending specialist advice?",
+    "choices": [
+      "Recombinant protein vaccines",
+      "Toxoid vaccines",
+      "Inactivated vaccines",
+      "Live attenuated vaccines",
+      "Non-live conjugate vaccines"
+    ],
+    "answer": 3,
+    "explanation": "Severe cellular immunodeficiency substantially increases the risk of disease from live attenuated vaccines. Specialist assessment is required before immunisation decisions.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-021",
+    "exam": "FOP",
+    "topic": "Development",
+    "difficulty": "Foundation",
+    "stem": "Which developmental skill is most typical around 9 months of age?",
+    "choices": [
+      "Reading simple words",
+      "Drawing a circle",
+      "Jumping with both feet",
+      "Sitting independently",
+      "Using full sentences"
+    ],
+    "answer": 3,
+    "explanation": "Many infants can sit without support by around 9 months. Milestones vary; developmental surveillance considers the overall pattern and corrected age when appropriate.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-022",
+    "exam": "FOP",
+    "topic": "Development",
+    "difficulty": "Foundation",
+    "stem": "A child aged 2 years has limited speech but good social interaction. Which assessment is especially important in the initial evaluation?",
+    "choices": [
+      "Routine CT brain for every child",
+      "Immediate diagnosis of autism spectrum disorder",
+      "Routine muscle biopsy",
+      "Formal hearing assessment",
+      "Routine chromosomal microarray for all children"
+    ],
+    "answer": 3,
+    "explanation": "Hearing impairment can contribute to speech delay, so hearing assessment is an important part of evaluation even when newborn screening was normal.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-023",
+    "exam": "FOP",
+    "topic": "Respiratory",
+    "difficulty": "Intermediate",
+    "stem": "A previously well toddler starts coughing suddenly while eating peanuts and has persistent unilateral wheeze. What diagnosis needs urgent consideration?",
+    "choices": [
+      "Simple laryngomalacia",
+      "Idiopathic pulmonary fibrosis",
+      "Typical viral bronchiolitis",
+      "Airway foreign-body aspiration",
+      "Allergic rhinitis"
+    ],
+    "answer": 3,
+    "explanation": "A sudden choking episode followed by focal wheeze strongly suggests an inhaled foreign body. A normal radiograph does not exclude it.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-024",
+    "exam": "FOP",
+    "topic": "Musculoskeletal",
+    "difficulty": "Foundation",
+    "stem": "A toddler with bowed legs, widened wrists and delayed walking has low vitamin D intake. What metabolic bone disorder is most likely?",
+    "choices": [
+      "Osteogenesis imperfecta",
+      "Septic arthritis",
+      "Juvenile idiopathic arthritis",
+      "Osteopetrosis",
+      "Nutritional rickets"
+    ],
+    "answer": 4,
+    "explanation": "Vitamin D deficiency can impair mineralisation at growth plates, producing rachitic skeletal changes and sometimes hypocalcaemia.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-025",
+    "exam": "FOP",
+    "topic": "Gastroenterology",
+    "difficulty": "Intermediate",
+    "stem": "A child has chronic diarrhoea, abdominal distension and faltering growth. Coeliac disease is suspected. Which first-line serological test is commonly used when the child eats gluten?",
+    "choices": [
+      "Serum amylase alone",
+      "Stool occult blood alone",
+      "Anti-dsDNA",
+      "Total IgA and IgA tissue transglutaminase",
+      "Serum gastrin"
+    ],
+    "answer": 3,
+    "explanation": "Coeliac screening commonly uses total IgA together with IgA anti-tTG while the patient consumes gluten; IgA deficiency alters the testing strategy.",
+    "reference_title": "NICE guideline NG20: Coeliac disease",
+    "reference_url": "https://www.nice.org.uk/guidance/ng20",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-026",
+    "exam": "FOP",
+    "topic": "Infectious diseases",
+    "difficulty": "Intermediate",
+    "stem": "A febrile child has a bulging, opaque tympanic membrane and recent ear pain. Which diagnosis is most consistent?",
+    "choices": [
+      "Mastoiditis without middle-ear findings",
+      "Eustachian tube dysfunction without infection",
+      "Otitis externa",
+      "Acute otitis media",
+      "Cholesteatoma alone"
+    ],
+    "answer": 3,
+    "explanation": "Bulging of the tympanic membrane with acute symptoms strongly supports acute otitis media rather than simple redness alone.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-027",
+    "exam": "FOP",
+    "topic": "Cardiology",
+    "difficulty": "Intermediate",
+    "stem": "A child with tetralogy of Fallot suddenly becomes deeply cyanotic during crying. Which immediate positioning manoeuvre may help while urgent treatment is arranged?",
+    "choices": [
+      "Flat supine position with legs lowered",
+      "Prone position without monitoring",
+      "Trendelenburg as sole management",
+      "Forced sitting upright only",
+      "Knee-chest position"
+    ],
+    "answer": 4,
+    "explanation": "The knee-chest position increases systemic vascular resistance and may reduce right-to-left shunting during a hypercyanotic spell. This is an emergency requiring prompt specialist management.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-028",
+    "exam": "FOP",
+    "topic": "Renal",
+    "difficulty": "Intermediate",
+    "stem": "A child has tea-coloured urine, oedema and hypertension two weeks after streptococcal pharyngitis. What renal process is most likely?",
+    "choices": [
+      "Isolated renal glycosuria",
+      "Minimal change nephrotic syndrome",
+      "Acute post-streptococcal glomerulonephritis",
+      "Simple asymptomatic bacteriuria",
+      "Diabetes insipidus"
+    ],
+    "answer": 2,
+    "explanation": "Post-streptococcal glomerulonephritis presents with nephritic features such as haematuria, hypertension and oedema after a preceding infection.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-029",
+    "exam": "FOP",
+    "topic": "Neonatology",
+    "difficulty": "Foundation",
+    "stem": "A term baby has cyanosis that does not improve adequately with oxygen and a loud single second heart sound. Which broad diagnostic category should be urgently considered?",
+    "choices": [
+      "Cyanotic congenital heart disease",
+      "Physiological reflux",
+      "Benign neonatal murmur alone",
+      "Iron deficiency anaemia",
+      "Simple neonatal acne"
+    ],
+    "answer": 0,
+    "explanation": "Persistent central cyanosis in a neonate requires immediate assessment for cardiac, respiratory and other causes; cyanotic congenital cardiac defects are an important consideration.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "fop-030",
+    "exam": "FOP",
+    "topic": "Nutrition",
+    "difficulty": "Foundation",
+    "stem": "Which nutrient supplementation is particularly important to prevent neural-tube defects when planning pregnancy?",
+    "choices": [
+      "Folic acid",
+      "Vitamin C alone",
+      "Vitamin K alone",
+      "Iron only after delivery",
+      "Magnesium alone"
+    ],
+    "answer": 0,
+    "explanation": "Periconceptional folic acid reduces neural-tube defect risk. Higher doses may be indicated for selected high-risk pregnancies according to local guidance.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-001",
+    "exam": "TAS",
+    "topic": "Respiratory physiology",
+    "difficulty": "Foundation",
+    "stem": "Which variable has the strongest direct inverse relationship with arterial carbon dioxide tension when carbon dioxide production is constant?",
+    "choices": [
+      "Heart rate",
+      "Functional residual capacity",
+      "Alveolar ventilation",
+      "Total lung capacity",
+      "Haemoglobin concentration"
+    ],
+    "answer": 2,
+    "explanation": "Arterial PaCO2 is inversely proportional to alveolar ventilation when metabolic CO2 production remains constant. Hypoventilation raises PaCO2.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "tas-002",
+    "exam": "TAS",
+    "topic": "Respiratory physiology",
+    "difficulty": "Foundation",
+    "stem": "Which change shifts the haemoglobin oxygen dissociation curve to the right?",
+    "choices": [
+      "Reduced hydrogen-ion concentration",
+      "Reduced 2,3-BPG",
+      "Reduced temperature",
+      "Increased pH",
+      "Increased carbon dioxide tension"
+    ],
+    "answer": 4,
+    "explanation": "Higher CO2, lower pH, higher temperature and increased 2,3-BPG reduce haemoglobin oxygen affinity, shifting the curve to the right and facilitating oxygen unloading.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "tas-003",
+    "exam": "TAS",
+    "topic": "Respiratory physiology",
+    "difficulty": "Foundation",
+    "stem": "Compared with adult haemoglobin, fetal haemoglobin has which property?",
+    "choices": [
+      "Higher oxygen affinity",
+      "Lower oxygen affinity",
+      "No ability to bind oxygen",
+      "Identical subunit composition",
+      "Higher 2,3-BPG affinity"
+    ],
+    "answer": 0,
+    "explanation": "Fetal haemoglobin (alpha2 gamma2) binds 2,3-BPG less strongly, increasing oxygen affinity and facilitating placental oxygen transfer.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "tas-004",
+    "exam": "TAS",
+    "topic": "Blood gases",
+    "difficulty": "Intermediate",
+    "stem": "An adolescent has pH 7.24, bicarbonate 12 mmol/L and PaCO2 27 mmHg. Which primary acid-base disturbance is present?",
+    "choices": [
+      "Mixed metabolic alkalosis and respiratory acidosis",
+      "Metabolic alkalosis",
+      "Metabolic acidosis",
+      "Respiratory acidosis",
+      "Respiratory alkalosis"
+    ],
+    "answer": 2,
+    "explanation": "Low pH with low bicarbonate indicates primary metabolic acidosis. Low PaCO2 is compatible with compensatory hyperventilation.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "tas-005",
+    "exam": "TAS",
+    "topic": "Blood gases",
+    "difficulty": "Foundation",
+    "stem": "Which formula gives the conventional plasma anion gap when potassium is excluded?",
+    "choices": [
+      "Potassium minus chloride alone",
+      "Sodium plus bicarbonate plus chloride",
+      "Chloride plus bicarbonate minus sodium",
+      "Bicarbonate divided by sodium",
+      "Sodium minus the sum of chloride and bicarbonate"
+    ],
+    "answer": 4,
+    "explanation": "The common anion-gap calculation is Na - (Cl + HCO3), with all concentrations in consistent units. Reference ranges depend on local methods and albumin.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "tas-006",
+    "exam": "TAS",
+    "topic": "Renal physiology",
+    "difficulty": "Foundation",
+    "stem": "Which nephron segment reabsorbs sodium, potassium and chloride while being relatively impermeable to water?",
+    "choices": [
+      "Thin descending limb of Henle",
+      "Thick ascending limb of the loop of Henle",
+      "Collecting duct under maximal antidiuresis",
+      "Distal ureter",
+      "Bowman's space"
+    ],
+    "answer": 1,
+    "explanation": "The thick ascending limb uses NKCC2 to reabsorb solutes without water, contributing to the medullary gradient and dilution of tubular fluid.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-007",
+    "exam": "TAS",
+    "topic": "Renal physiology",
+    "difficulty": "Foundation",
+    "stem": "Antidiuretic hormone increases water permeability in which nephron segment by inserting aquaporin-2 channels?",
+    "choices": [
+      "Ascending limb intercalated cells",
+      "Macula densa cells",
+      "Collecting duct principal cells",
+      "Glomerular podocytes",
+      "Proximal tubular brush border"
+    ],
+    "answer": 2,
+    "explanation": "ADH acts through V2 receptors on collecting duct principal cells, promoting aquaporin-2 insertion and increasing water reabsorption.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-008",
+    "exam": "TAS",
+    "topic": "Renal physiology",
+    "difficulty": "Intermediate",
+    "stem": "Which immediate glomerular effect is expected when the afferent arteriole constricts substantially?",
+    "choices": [
+      "Unchanged glomerular capillary pressure with higher GFR",
+      "Reduced renal plasma flow and generally reduced GFR",
+      "Increased renal plasma flow",
+      "Increased filtration fraction from higher inflow",
+      "Complete absence of sodium handling"
+    ],
+    "answer": 1,
+    "explanation": "Afferent arteriolar constriction decreases blood entering the glomerulus and lowers capillary hydrostatic pressure, generally reducing GFR.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-009",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Foundation",
+    "stem": "Which hormone primarily promotes insulin-independent hepatic glycogen breakdown during fasting?",
+    "choices": [
+      "Insulin",
+      "Glucagon",
+      "Oxytocin",
+      "Prolactin",
+      "Calcitonin"
+    ],
+    "answer": 1,
+    "explanation": "Glucagon signals through the hepatic G-protein–cAMP pathway to stimulate glycogenolysis and gluconeogenesis during fasting.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-010",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Intermediate",
+    "stem": "Insulin increases glucose uptake into skeletal muscle principally by promoting translocation of which transporter?",
+    "choices": [
+      "SGLT2",
+      "GLUT2 at the apical border",
+      "CFTR",
+      "GLUT5",
+      "GLUT4"
+    ],
+    "answer": 4,
+    "explanation": "Insulin stimulates translocation of GLUT4 transporters to the surface of skeletal muscle and adipose cells, facilitating glucose uptake.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-011",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Foundation",
+    "stem": "Which pituitary response would be expected in untreated primary hypothyroidism?",
+    "choices": [
+      "Normal TSH in every patient",
+      "Raised TSH",
+      "Suppressed TSH with elevated free T4",
+      "Suppressed prolactin as the defining feature",
+      "Raised ACTH as the primary feature"
+    ],
+    "answer": 1,
+    "explanation": "Low thyroid hormone removes negative feedback from the hypothalamic-pituitary axis, usually increasing TSH in primary hypothyroidism.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-012",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Intermediate",
+    "stem": "Which hormone is the major endocrine mediator of many growth hormone effects on linear growth?",
+    "choices": [
+      "Aldosterone",
+      "Calcitonin",
+      "Insulin-like growth factor 1",
+      "Renin",
+      "Parathyroid hormone"
+    ],
+    "answer": 2,
+    "explanation": "Growth hormone stimulates production of IGF-1, mainly in the liver and locally in tissues; IGF-1 contributes to chondrocyte proliferation and skeletal growth.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-013",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Foundation",
+    "stem": "Which ion is directly regulated by parathyroid hormone through effects on bone, kidneys and vitamin D activation?",
+    "choices": [
+      "Iron",
+      "Bicarbonate alone",
+      "Chloride alone",
+      "Magnesium only",
+      "Calcium"
+    ],
+    "answer": 4,
+    "explanation": "Parathyroid hormone generally increases serum calcium by stimulating renal calcium retention, bone resorption and activation of vitamin D, while promoting phosphate excretion.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-014",
+    "exam": "TAS",
+    "topic": "Endocrinology",
+    "difficulty": "Intermediate",
+    "stem": "An infant has hyponatraemia, low plasma osmolality and inappropriately concentrated urine without clinical dehydration. Which hormonal action best explains the findings?",
+    "choices": [
+      "Excess antidiuretic hormone activity",
+      "Complete ADH deficiency",
+      "Excess atrial natriuretic peptide as sole cause",
+      "Glucagon excess",
+      "Insulin deficiency"
+    ],
+    "answer": 0,
+    "explanation": "Excess ADH promotes water retention, lowering serum sodium and osmolality while preventing appropriately dilute urine. Diagnosis of SIADH requires exclusion of other causes.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-015",
+    "exam": "TAS",
+    "topic": "Genetics",
+    "difficulty": "Foundation",
+    "stem": "A mother carries a pathogenic X-linked recessive variant and the father is unaffected. What is the risk to each son of inheriting the variant?",
+    "choices": [
+      "25 percent",
+      "100 percent",
+      "50 percent",
+      "75 percent",
+      "0 percent"
+    ],
+    "answer": 2,
+    "explanation": "Each son inherits his X chromosome from his mother, so an unaffected father does not alter the mother's 50 percent transmission probability to each son.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-016",
+    "exam": "TAS",
+    "topic": "Genetics",
+    "difficulty": "Foundation",
+    "stem": "Which inheritance pattern characteristically passes an affected mitochondrial DNA variant through mothers rather than fathers?",
+    "choices": [
+      "Mitochondrial inheritance",
+      "Autosomal recessive inheritance",
+      "Autosomal dominant inheritance",
+      "X-linked dominant inheritance",
+      "Y-linked inheritance"
+    ],
+    "answer": 0,
+    "explanation": "Human mitochondrial DNA is typically maternally inherited. Heteroplasmy can cause variable expression among maternal relatives.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-017",
+    "exam": "TAS",
+    "topic": "Genetics",
+    "difficulty": "Intermediate",
+    "stem": "A parent is heterozygous for a fully penetrant autosomal dominant variant. What is the transmission probability for each child?",
+    "choices": [
+      "50 percent",
+      "10 percent",
+      "100 percent",
+      "75 percent",
+      "25 percent"
+    ],
+    "answer": 0,
+    "explanation": "An affected heterozygous parent has one mutant and one unaffected allele, giving a 1-in-2 transmission probability per pregnancy independently of previous births.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-018",
+    "exam": "TAS",
+    "topic": "Epidemiology",
+    "difficulty": "Foundation",
+    "stem": "Sensitivity of a diagnostic test is calculated using which ratio?",
+    "choices": [
+      "All positive tests divided by all tests",
+      "True negatives divided by all people without disease",
+      "True positives divided by all negative tests",
+      "False positives divided by all positive tests",
+      "True positives divided by all people who truly have the disease"
+    ],
+    "answer": 4,
+    "explanation": "Sensitivity is TP/(TP+FN), the probability that a test is positive among people who have the target condition.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-019",
+    "exam": "TAS",
+    "topic": "Epidemiology",
+    "difficulty": "Foundation",
+    "stem": "Specificity of a diagnostic test is calculated using which ratio?",
+    "choices": [
+      "True negatives divided by all people without the disease",
+      "True positives divided by false positives",
+      "True positives divided by all people with the disease",
+      "False negatives divided by all diseased people",
+      "All negative tests divided by all tests"
+    ],
+    "answer": 0,
+    "explanation": "Specificity is TN/(TN+FP), the probability of a negative test among people who do not have the condition.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-020",
+    "exam": "TAS",
+    "topic": "Epidemiology",
+    "difficulty": "Intermediate",
+    "stem": "If sensitivity and specificity remain constant, what usually happens to the positive predictive value when disease prevalence increases?",
+    "choices": [
+      "It increases",
+      "It becomes equal to specificity",
+      "It remains exactly unchanged",
+      "It becomes equal to sensitivity",
+      "It always decreases"
+    ],
+    "answer": 0,
+    "explanation": "As prevalence rises, positive results contain a greater proportion of true positives, generally increasing positive predictive value.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-021",
+    "exam": "TAS",
+    "topic": "Research methods",
+    "difficulty": "Foundation",
+    "stem": "What is the main purpose of random allocation in a clinical trial?",
+    "choices": [
+      "To ensure participants are blinded",
+      "To remove the need for statistical analysis",
+      "To eliminate all loss to follow-up",
+      "To guarantee the treatment works",
+      "To reduce systematic baseline differences between treatment groups"
+    ],
+    "answer": 4,
+    "explanation": "Randomisation helps balance measured and unmeasured confounders on average and reduces selection bias in treatment assignment.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-022",
+    "exam": "TAS",
+    "topic": "Research methods",
+    "difficulty": "Intermediate",
+    "stem": "A 95 percent confidence interval for the difference between two means includes zero. Which interpretation is most appropriate for a conventional two-sided test at the 5 percent level?",
+    "choices": [
+      "The probability the null hypothesis is true is 95 percent",
+      "The result is not statistically significant at the 5 percent level",
+      "The intervention is proven identical to control",
+      "The study is necessarily underpowered",
+      "The treatment effect must be harmful"
+    ],
+    "answer": 1,
+    "explanation": "When the 95 percent confidence interval for a mean difference includes zero, the corresponding two-sided p-value is generally at least 0.05. This does not establish equivalence.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-023",
+    "exam": "TAS",
+    "topic": "Immunology",
+    "difficulty": "Foundation",
+    "stem": "Which antibody class provides a major component of mucosal immunity in secretions such as breast milk?",
+    "choices": [
+      "IgG4 exclusively",
+      "Secretory IgA",
+      "IgM only",
+      "IgD",
+      "IgE"
+    ],
+    "answer": 1,
+    "explanation": "Secretory IgA helps protect mucosal surfaces by neutralising pathogens, including in breast milk and respiratory and gastrointestinal secretions.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-024",
+    "exam": "TAS",
+    "topic": "Immunology",
+    "difficulty": "Foundation",
+    "stem": "Which immunoglobulin class crosses the placenta most efficiently to provide passive systemic immunity to the fetus?",
+    "choices": [
+      "IgA",
+      "IgM",
+      "IgG",
+      "IgE",
+      "IgD"
+    ],
+    "answer": 2,
+    "explanation": "IgG crosses the placenta via neonatal Fc receptors, giving the neonate maternally derived systemic antibody protection.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-025",
+    "exam": "TAS",
+    "topic": "Immunology",
+    "difficulty": "Foundation",
+    "stem": "Immediate allergic anaphylaxis is classically mediated by which immunological mechanism?",
+    "choices": [
+      "Complement deficiency alone",
+      "IgE-mediated mast-cell degranulation",
+      "IgG-driven immune-complex deposition only",
+      "Antibody-independent cytotoxic T-cell action",
+      "T-cell delayed hypersensitivity alone"
+    ],
+    "answer": 1,
+    "explanation": "In type I hypersensitivity, antigen cross-links IgE bound to mast cells, triggering mediator release. Non-IgE mechanisms may also cause anaphylaxis.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-026",
+    "exam": "TAS",
+    "topic": "Microbiology",
+    "difficulty": "Foundation",
+    "stem": "Lipopolysaccharide endotoxin is primarily a structural component of which organisms?",
+    "choices": [
+      "Viruses",
+      "Protozoa",
+      "Gram-positive bacteria exclusively",
+      "Fungi",
+      "Gram-negative bacteria"
+    ],
+    "answer": 4,
+    "explanation": "LPS is found in the outer membrane of Gram-negative bacteria and can activate innate immune pathways that contribute to inflammation and shock.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-027",
+    "exam": "TAS",
+    "topic": "Pharmacology",
+    "difficulty": "Intermediate",
+    "stem": "For a drug with first-order elimination, approximately how many half-lives are needed to reach around 94 to 97 percent of steady-state plasma concentration during constant dosing?",
+    "choices": [
+      "One tenth of a half-life",
+      "One hundred half-lives",
+      "Four to five half-lives",
+      "Exactly one half-life",
+      "Twenty half-lives in every case"
+    ],
+    "answer": 2,
+    "explanation": "With first-order pharmacokinetics, successive half-lives bring concentrations progressively closer to steady state; about 4–5 half-lives reach roughly 94–97 percent.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-028",
+    "exam": "TAS",
+    "topic": "Pharmacology",
+    "difficulty": "Foundation",
+    "stem": "Which formula defines the apparent volume of distribution after intravenous dosing?",
+    "choices": [
+      "Oral bioavailability multiplied by dose",
+      "Amount of drug in body divided by plasma drug concentration",
+      "Glomerular filtration rate multiplied by time",
+      "Urinary concentration divided by plasma concentration",
+      "Plasma clearance divided by half-life"
+    ],
+    "answer": 1,
+    "explanation": "Apparent volume of distribution relates the amount of drug in the body to the measured plasma concentration. It need not correspond to a real anatomical volume.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-029",
+    "exam": "TAS",
+    "topic": "Pharmacology",
+    "difficulty": "Foundation",
+    "stem": "An orally administered drug undergoes substantial first-pass hepatic metabolism. What is the usual effect on systemic bioavailability?",
+    "choices": [
+      "Complete absence of plasma protein binding",
+      "Guaranteed complete bioavailability",
+      "No effect in any situation",
+      "Increased bioavailability to above 100 percent",
+      "Reduced bioavailability"
+    ],
+    "answer": 4,
+    "explanation": "First-pass metabolism can remove a portion of orally absorbed drug before it reaches systemic circulation, reducing bioavailability.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "tas-030",
+    "exam": "TAS",
+    "topic": "Cardiovascular physiology",
+    "difficulty": "Intermediate",
+    "stem": "Which change most directly increases cardiac output if heart rate stays constant?",
+    "choices": [
+      "Reduced venous return with unchanged contractility",
+      "Reduced stroke volume",
+      "Increased stroke volume",
+      "Higher systemic vascular resistance alone",
+      "Increased end-systolic volume without change in end-diastolic volume"
+    ],
+    "answer": 2,
+    "explanation": "Cardiac output equals heart rate multiplied by stroke volume. If heart rate is constant, raising stroke volume increases output.",
+    "reference_title": "NCBI Bookshelf: Biomedical science reference collection",
+    "reference_url": "https://www.ncbi.nlm.nih.gov/books/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-001",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Advanced",
+    "stem": "A 3-year-old is febrile, lethargic, poorly perfused and has a rapidly spreading non-blanching rash. What is the most appropriate next step?",
+    "choices": [
+      "Activate emergency sepsis management immediately",
+      "Delay antibiotics until culture results are available",
+      "Arrange routine outpatient dermatology review",
+      "Wait for the rash to resolve",
+      "Discharge with oral antipyretics"
+    ],
+    "answer": 0,
+    "explanation": "Suspected meningococcal sepsis with shock is time-critical. Immediate airway, breathing, circulation assessment, resuscitation, urgent antimicrobials and senior critical-care involvement are essential.",
+    "reference_title": "NICE guideline NG51: Sepsis",
+    "reference_url": "https://www.nice.org.uk/guidance/ng51",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "akp-002",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Advanced",
+    "stem": "A child develops wheeze, hypotension and lip swelling shortly after eating a new food. What is the first-line drug and route for suspected anaphylaxis?",
+    "choices": [
+      "Intramuscular adrenaline into the anterolateral thigh",
+      "Intravenous chlorphenamine alone",
+      "Nebulised salbutamol alone",
+      "Oral prednisolone alone",
+      "Subcutaneous insulin"
+    ],
+    "answer": 0,
+    "explanation": "Intramuscular adrenaline is first-line for anaphylaxis; treat promptly while calling for help and supporting airway, breathing and circulation. Antihistamines and steroids must not delay adrenaline.",
+    "reference_title": "Resuscitation Council UK guidelines",
+    "reference_url": "https://www.resus.org.uk/library",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "akp-003",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Intermediate",
+    "stem": "An alert infant under one year is choking on a solid object, cannot cry and has an ineffective cough. Which sequence is recommended initially?",
+    "choices": [
+      "Immediate oral fluids",
+      "Abdominal thrusts only",
+      "Cycles of five back blows and five chest thrusts",
+      "Encouraging the child to lie down and sleep",
+      "Blind finger sweeps"
+    ],
+    "answer": 2,
+    "explanation": "For severe foreign-body airway obstruction in a conscious infant, give up to five back blows alternating with up to five chest thrusts. Avoid abdominal thrusts and blind finger sweeps in infants.",
+    "reference_title": "Resuscitation Council UK guidelines",
+    "reference_url": "https://www.resus.org.uk/library",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "akp-004",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Advanced",
+    "stem": "A 7-year-old with diabetic ketoacidosis develops worsening headache, reduced consciousness and an unexpected fall in heart rate during treatment. What life-threatening complication is most concerning?",
+    "choices": [
+      "Uncomplicated otitis media",
+      "Transient peripheral neuropathy",
+      "Simple migraine",
+      "Iron deficiency anaemia",
+      "Cerebral oedema or cerebral injury"
+    ],
+    "answer": 4,
+    "explanation": "New neurological deterioration during DKA treatment can indicate cerebral injury. Immediate senior review and emergency treatment are needed; do not delay for imaging if clinically suspected.",
+    "reference_title": "NICE guideline NG18: Diabetes in children and young people",
+    "reference_url": "https://www.nice.org.uk/guidance/ng18",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "akp-005",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Intermediate",
+    "stem": "A shocked child remains hypotensive with delayed capillary refill and a fast pulse. What is the best general principle?",
+    "choices": [
+      "Provide immediate ABC assessment and resuscitation with repeated reassessment",
+      "Wait for blood culture before obtaining intravenous access",
+      "Discharge if the child is awake",
+      "Start oral fluids as the only management",
+      "Ignore blood pressure because children compensate"
+    ],
+    "answer": 0,
+    "explanation": "Shock requires rapid structured assessment and treatment of the underlying cause, with repeated reassessment and early senior or critical-care support.",
+    "reference_title": "NICE guideline NG51: Sepsis",
+    "reference_url": "https://www.nice.org.uk/guidance/ng51",
+    "is_free": true,
+    "is_published": true
+  },
+  {
+    "id": "akp-006",
+    "exam": "AKP",
+    "topic": "Respiratory",
+    "difficulty": "Intermediate",
+    "stem": "A 2-year-old with a barking cough has significant stridor at rest and marked chest recession. What approach is most appropriate?",
+    "choices": [
+      "Chest physiotherapy as first-line treatment",
+      "Forceful throat examination",
+      "Urgent assessment with corticosteroid and consideration of nebulised adrenaline according to severity",
+      "Routine oral antibiotics in every case",
+      "Reassurance without monitoring"
+    ],
+    "answer": 2,
+    "explanation": "Stridor at rest and marked retractions suggest more severe croup. Give appropriate corticosteroid and escalate care; nebulised adrenaline may be used for significant respiratory distress.",
+    "reference_title": "NHS: Croup overview",
+    "reference_url": "https://www.nhs.uk/conditions/croup/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-007",
+    "exam": "AKP",
+    "topic": "Respiratory",
+    "difficulty": "Advanced",
+    "stem": "A child with an asthma exacerbation becomes exhausted, has reduced conscious level and almost no audible air entry. What does this finding suggest?",
+    "choices": [
+      "Isolated anxiety without respiratory risk",
+      "Life-threatening asthma with impending respiratory failure",
+      "Resolution of bronchospasm",
+      "Mild asthma suitable for discharge",
+      "A normal examination"
+    ],
+    "answer": 1,
+    "explanation": "A silent or near-silent chest in a tiring child is an ominous sign because airflow is critically reduced. Escalate urgently for advanced airway and intensive care support.",
+    "reference_title": "Global Initiative for Asthma strategy reports",
+    "reference_url": "https://ginasthma.org/reports/",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-008",
+    "exam": "AKP",
+    "topic": "Respiratory",
+    "difficulty": "Intermediate",
+    "stem": "A toddler has a history of choking while playing, persistent focal wheeze and a normal chest radiograph. What is the best interpretation?",
+    "choices": [
+      "A normal radiograph completely excludes aspiration",
+      "Airway foreign body remains possible despite normal radiography",
+      "No further assessment can be justified",
+      "Asthma is confirmed",
+      "A viral infection is proven"
+    ],
+    "answer": 1,
+    "explanation": "Many inhaled foreign bodies are radiolucent. A normal radiograph does not exclude aspiration; clinical suspicion may warrant urgent specialist airway evaluation.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-009",
+    "exam": "AKP",
+    "topic": "Respiratory",
+    "difficulty": "Intermediate",
+    "stem": "A child has high fever, toxic appearance, stridor and deterioration after a croup-like illness. Which alternative diagnosis is particularly important?",
+    "choices": [
+      "Uncomplicated viral rhinitis",
+      "Physiological infant reflux",
+      "Bacterial tracheitis",
+      "Exercise-induced bronchospasm",
+      "Simple allergic rhinitis"
+    ],
+    "answer": 2,
+    "explanation": "Bacterial tracheitis may cause severe upper-airway obstruction, high fever and toxicity, often with poor response to conventional croup treatment; urgent airway review is needed.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-010",
+    "exam": "AKP",
+    "topic": "Respiratory",
+    "difficulty": "Advanced",
+    "stem": "A child is drooling, sitting forward, febrile and appears frightened with rapidly progressive stridor. What is the safest immediate approach?",
+    "choices": [
+      "Lay the child flat despite distress",
+      "Keep the child calm and summon an experienced airway team urgently",
+      "Examine the throat forcefully with a tongue depressor",
+      "Obtain an unnecessary blood test before seeking help",
+      "Send the child alone to radiology"
+    ],
+    "answer": 1,
+    "explanation": "Possible epiglottitis is an airway emergency. Avoid interventions that could provoke obstruction; keep the child calm and arrange specialist controlled airway management.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-011",
+    "exam": "AKP",
+    "topic": "Neonatology",
+    "difficulty": "Advanced",
+    "stem": "A 2-day-old develops severe shock, weak pulses and metabolic acidosis as the ductus arteriosus closes. What treatment should be considered urgently if a duct-dependent cardiac lesion is suspected?",
+    "choices": [
+      "Oral iron",
+      "Prostaglandin E1 infusion under specialist supervision",
+      "Routine inhaled salbutamol",
+      "High-dose oral antihistamine",
+      "Phototherapy as the sole intervention"
+    ],
+    "answer": 1,
+    "explanation": "Duct-dependent systemic circulation can collapse when the ductus closes; prostaglandin E1 may restore ductal patency while urgent neonatal and cardiac care is arranged.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-012",
+    "exam": "AKP",
+    "topic": "Neonatology",
+    "difficulty": "Intermediate",
+    "stem": "A 4-week-old has a documented temperature of 38.2 °C and appears relatively well. Which general action is most appropriate?",
+    "choices": [
+      "Reassure by telephone only",
+      "Diagnose teething",
+      "Give an antipyretic and avoid follow-up",
+      "Wait a week without evaluation",
+      "Urgent face-to-face assessment because of age and fever"
+    ],
+    "answer": 4,
+    "explanation": "A measured temperature of at least 38 °C in an infant younger than 3 months is a high-risk feature requiring urgent clinical assessment for serious bacterial infection.",
+    "reference_title": "NICE guideline NG143: Fever in under 5s",
+    "reference_url": "https://www.nice.org.uk/guidance/ng143",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-013",
+    "exam": "AKP",
+    "topic": "Renal",
+    "difficulty": "Advanced",
+    "stem": "A 5-year-old develops pallor, bruising, oliguria and raised creatinine several days after bloody diarrhoea. Which combination best defines the suspected syndrome?",
+    "choices": [
+      "Eosinophilia with normal renal function",
+      "Microangiopathic haemolytic anaemia, thrombocytopenia and acute kidney injury",
+      "Isolated thrombocytopenia only",
+      "Nephrotic-range proteinuria with normal platelets",
+      "Hyperglycaemia and ketonuria"
+    ],
+    "answer": 1,
+    "explanation": "Haemolytic uraemic syndrome is defined by microangiopathic haemolytic anaemia, thrombocytopenia and acute kidney injury; urgent paediatric renal assessment is required.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-014",
+    "exam": "AKP",
+    "topic": "Renal",
+    "difficulty": "Intermediate",
+    "stem": "A child with IgA vasculitis has palpable purpura and abdominal pain but feels well. Which follow-up measurement is especially important?",
+    "choices": [
+      "Urinalysis and blood pressure",
+      "Thyroid antibodies only",
+      "Bone age without examination",
+      "Routine serum amylase alone",
+      "Visual acuity only"
+    ],
+    "answer": 0,
+    "explanation": "Renal involvement in IgA vasculitis can be initially asymptomatic; urine examination and blood pressure monitoring are essential even if the initial presentation is mild.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-015",
+    "exam": "AKP",
+    "topic": "Endocrinology",
+    "difficulty": "Advanced",
+    "stem": "A child has DKA and a serum potassium concentration that is initially normal. Why is ongoing potassium assessment essential during treatment?",
+    "choices": [
+      "DKA always causes net potassium excess",
+      "Insulin raises potassium by blocking cellular uptake",
+      "Total body potassium is depleted and insulin may lower serum potassium",
+      "Serum potassium can never change during insulin treatment",
+      "Potassium replacement is unnecessary in every child"
+    ],
+    "answer": 2,
+    "explanation": "Although initial serum potassium can be normal or high, osmotic losses create total-body potassium depletion. Insulin and correction of acidosis can rapidly lower circulating potassium.",
+    "reference_title": "NICE guideline NG18: Diabetes in children and young people",
+    "reference_url": "https://www.nice.org.uk/guidance/ng18",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-016",
+    "exam": "AKP",
+    "topic": "Endocrinology",
+    "difficulty": "Intermediate",
+    "stem": "A 10-year-old with newly diagnosed type 1 diabetes has deep, laboured breathing, abdominal pain and ketones. What does the breathing pattern likely represent?",
+    "choices": [
+      "Compensatory hyperventilation for metabolic acidosis",
+      "Primary respiratory alkalosis without metabolic disease",
+      "A psychogenic sigh as the only cause",
+      "Isolated upper-airway obstruction",
+      "Normal sleep breathing"
+    ],
+    "answer": 0,
+    "explanation": "Kussmaul breathing is deep, laboured hyperventilation that reduces PaCO2 as respiratory compensation for metabolic acidosis in DKA.",
+    "reference_title": "NICE guideline NG18: Diabetes in children and young people",
+    "reference_url": "https://www.nice.org.uk/guidance/ng18",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-017",
+    "exam": "AKP",
+    "topic": "Neurology",
+    "difficulty": "Intermediate",
+    "stem": "A 20-month-old has a single generalized seizure with fever lasting four minutes, returns to baseline and has no focal signs. Which description best fits?",
+    "choices": [
+      "Simple febrile seizure",
+      "Neonatal seizure",
+      "Unprovoked epilepsy by definition",
+      "Status epilepticus",
+      "Complex febrile seizure due to prolonged duration"
+    ],
+    "answer": 0,
+    "explanation": "A simple febrile seizure is generalised, lasts less than 15 minutes and occurs only once in 24 hours in a neurologically appropriate age group, followed by recovery.",
+    "reference_title": "NICE guideline NG143: Fever in under 5s",
+    "reference_url": "https://www.nice.org.uk/guidance/ng143",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-018",
+    "exam": "AKP",
+    "topic": "Neurology",
+    "difficulty": "Advanced",
+    "stem": "A child with possible meningitis has declining consciousness and focal neurological deficits. Which statement about immediate lumbar puncture is best?",
+    "choices": [
+      "LP replaces the need for antibiotics",
+      "Only blood pressure is relevant before LP",
+      "Defer LP pending stabilization and specialist assessment because of concerning neurological signs",
+      "Perform LP immediately irrespective of instability",
+      "Imaging always rules out LP risk completely"
+    ],
+    "answer": 2,
+    "explanation": "Reduced consciousness or focal signs may indicate increased risk from LP. Stabilisation and urgent antimicrobial treatment take priority, with decisions guided by senior assessment.",
+    "reference_title": "NICE guideline NG240: Meningitis and meningococcal disease",
+    "reference_url": "https://www.nice.org.uk/guidance/ng240",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-019",
+    "exam": "AKP",
+    "topic": "Infectious diseases",
+    "difficulty": "Advanced",
+    "stem": "A febrile 5-year-old refuses to bear weight and has a hot, swollen knee with severe pain on movement. Which diagnosis must be urgently excluded?",
+    "choices": [
+      "Septic arthritis",
+      "Benign hypermobility syndrome",
+      "Osgood-Schlatter disease",
+      "Growing pains",
+      "Simple contusion without examination"
+    ],
+    "answer": 0,
+    "explanation": "Septic arthritis can rapidly damage the joint and cause systemic illness. Urgent orthopaedic assessment, cultures and prompt antimicrobial treatment are required.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-020",
+    "exam": "AKP",
+    "topic": "Infectious diseases",
+    "difficulty": "Intermediate",
+    "stem": "A child has 6 days of fever, oral mucosal changes, bilateral conjunctival injection and swollen feet. Which complication is the principal reason for prompt diagnosis of Kawasaki disease?",
+    "choices": [
+      "Renal stones",
+      "Permanent sensorineural deafness as the defining risk",
+      "Portal hypertension",
+      "Chronic pulmonary fibrosis",
+      "Coronary artery abnormalities"
+    ],
+    "answer": 4,
+    "explanation": "Kawasaki disease is associated with coronary arterial inflammation and aneurysms; timely assessment and treatment reduce cardiac complications.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-021",
+    "exam": "AKP",
+    "topic": "Haematology",
+    "difficulty": "Intermediate",
+    "stem": "A previously healthy child develops petechiae after a viral illness, is clinically well and has isolated marked thrombocytopenia with other blood counts normal. What is the most likely diagnosis?",
+    "choices": [
+      "Iron deficiency anaemia",
+      "Haemolytic uraemic syndrome",
+      "Immune thrombocytopenia",
+      "Acute leukaemia proven by the description",
+      "Disseminated intravascular coagulation"
+    ],
+    "answer": 2,
+    "explanation": "Childhood immune thrombocytopenia often causes isolated thrombocytopenia after infection; atypical signs, abnormal blood film or other cytopenias warrant urgent alternative evaluation.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-022",
+    "exam": "AKP",
+    "topic": "Haematology",
+    "difficulty": "Advanced",
+    "stem": "A child with sickle cell disease develops fever, chest pain, hypoxaemia and a new pulmonary infiltrate. What serious complication is most likely?",
+    "choices": [
+      "Simple viral rhinitis",
+      "Acute chest syndrome",
+      "Nephrotic syndrome",
+      "Sickle cell trait alone",
+      "Uncomplicated vaso-occlusive pain without respiratory involvement"
+    ],
+    "answer": 1,
+    "explanation": "Acute chest syndrome features a new lung infiltrate with respiratory symptoms or fever in sickle cell disease. Prompt inpatient treatment and careful monitoring are essential.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-023",
+    "exam": "AKP",
+    "topic": "Cardiology",
+    "difficulty": "Intermediate",
+    "stem": "A stable child has sudden regular narrow-complex tachycardia, absent obvious P waves and a heart rate far above the expected range. What is the initial non-pharmacological management commonly attempted?",
+    "choices": [
+      "Routine antibiotics",
+      "Age-appropriate vagal manoeuvres while monitoring",
+      "Oral diuretic therapy",
+      "Immediate unsynchronised shock in every stable child",
+      "Forceful carotid sinus massage in an infant"
+    ],
+    "answer": 1,
+    "explanation": "Stable supraventricular tachycardia can respond to age-appropriate vagal manoeuvres. If unsuccessful, escalation follows paediatric arrhythmia algorithms.",
+    "reference_title": "AHA guidelines for CPR and emergency cardiovascular care",
+    "reference_url": "https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-024",
+    "exam": "AKP",
+    "topic": "Cardiology",
+    "difficulty": "Advanced",
+    "stem": "A child with severe hyperkalaemia has a widened QRS complex and haemodynamic instability. Which intravenous treatment immediately helps stabilise the myocardium?",
+    "choices": [
+      "Oral salbutamol syrup",
+      "Vitamin D supplementation",
+      "Calcium salts administered with cardiac monitoring",
+      "Oral iron",
+      "Isotonic dextrose alone without insulin"
+    ],
+    "answer": 2,
+    "explanation": "Intravenous calcium stabilises the cardiac membrane in hyperkalaemia with ECG changes but does not remove potassium; definitive potassium-lowering measures are also required.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-025",
+    "exam": "AKP",
+    "topic": "Gastroenterology",
+    "difficulty": "Advanced",
+    "stem": "An adolescent presents with sudden severe unilateral scrotal pain, nausea and a high-riding testis. Which action is essential?",
+    "choices": [
+      "Antibiotics without examination",
+      "Immediate urgent surgical assessment for possible testicular torsion",
+      "Reassurance that the pain will resolve",
+      "Sports restriction alone",
+      "Routine outpatient ultrasound next week"
+    ],
+    "answer": 1,
+    "explanation": "Testicular torsion is time-critical and diagnosis is primarily clinical; surgery should not be delayed for imaging when suspicion is high.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-026",
+    "exam": "AKP",
+    "topic": "Gastroenterology",
+    "difficulty": "Intermediate",
+    "stem": "A school-aged child has migratory abdominal pain that localises to the right iliac fossa with fever and guarding. Which diagnosis is most likely?",
+    "choices": [
+      "Uncomplicated lactose intolerance",
+      "Acute appendicitis",
+      "Gastro-oesophageal reflux",
+      "Functional abdominal pain without assessment",
+      "Infantile pyloric stenosis"
+    ],
+    "answer": 1,
+    "explanation": "Appendicitis often begins as vague periumbilical pain before localising to the right iliac fossa, accompanied by tenderness, guarding and systemic signs.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-027",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Advanced",
+    "stem": "A child is tachycardic with prolonged capillary refill but has blood pressure within the age-appropriate range after several days of diarrhoea. Which interpretation is most accurate?",
+    "choices": [
+      "Immediate discharge is always safe",
+      "Tachycardia is irrelevant in children",
+      "Compensated shock can occur before hypotension",
+      "Normal blood pressure excludes shock",
+      "Severe dehydration is impossible"
+    ],
+    "answer": 2,
+    "explanation": "Children may preserve blood pressure until late in shock through compensatory responses. Perfusion and overall clinical status matter more than a single pressure reading.",
+    "reference_title": "NICE guideline NG51: Sepsis",
+    "reference_url": "https://www.nice.org.uk/guidance/ng51",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-028",
+    "exam": "AKP",
+    "topic": "Emergency medicine",
+    "difficulty": "Intermediate",
+    "stem": "A toddler has reduced urine output, dry mucous membranes and sunken eyes during gastroenteritis but is alert and perfused. Which principle best guides fluid choice?",
+    "choices": [
+      "Avoid any oral fluids for 24 hours",
+      "Start insulin to improve urine output",
+      "Use hypotonic intravenous fluid routinely in all cases",
+      "Give unrestricted fruit juice as sole therapy",
+      "Assess dehydration and use oral rehydration when safely tolerated"
+    ],
+    "answer": 4,
+    "explanation": "Oral rehydration solution is often appropriate for mild to moderate dehydration in a child able to drink, with escalation for severe dehydration or shock.",
+    "reference_title": "NICE guideline CG84: Gastroenteritis in under 5s",
+    "reference_url": "https://www.nice.org.uk/guidance/cg84",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-029",
+    "exam": "AKP",
+    "topic": "Infectious diseases",
+    "difficulty": "Advanced",
+    "stem": "A child with suspected meningococcal infection is haemodynamically unstable. Which statement about antimicrobials is most appropriate?",
+    "choices": [
+      "Do not delay urgent antibiotics for lumbar puncture",
+      "Repeat antipyretics for a day before reassessment",
+      "Routine outpatient oral therapy is sufficient",
+      "Wait for lumbar puncture cultures before all treatment",
+      "Antibiotics are contraindicated with rash"
+    ],
+    "answer": 0,
+    "explanation": "In suspected invasive bacterial infection or meningococcal sepsis, urgent parenteral antibiotics and resuscitation take priority over nonessential diagnostic procedures.",
+    "reference_title": "NICE guideline NG240: Meningitis and meningococcal disease",
+    "reference_url": "https://www.nice.org.uk/guidance/ng240",
+    "is_free": false,
+    "is_published": true
+  },
+  {
+    "id": "akp-030",
+    "exam": "AKP",
+    "topic": "Cardiology",
+    "difficulty": "Advanced",
+    "stem": "A neonate with suspected critical congenital heart disease has saturation differences and worsening perfusion. Which specialist investigations are most definitive for defining anatomy?",
+    "choices": [
+      "Serum iron studies",
+      "Electroencephalography",
+      "Urgent echocardiography",
+      "Abdominal ultrasound",
+      "Routine chest x-ray alone"
+    ],
+    "answer": 2,
+    "explanation": "Echocardiography defines structural heart disease and shunt physiology. Stabilisation and urgent neonatology or cardiology input should occur without waiting for routine tests.",
+    "reference_title": "RCPCH theory exam syllabus and structure",
+    "reference_url": "https://www.rcpch.ac.uk/education-careers/examinations/theory/structure-syllabi",
+    "is_free": false,
+    "is_published": true
+  }
+]

@@ -1,0 +1,32 @@
+name = "paediasprint"
+main = "src/worker.js"
+compatibility_date = "2026-11-01"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "paediasprint-db"
+database_id = "ac97f8b4-f33c-477c-a9a8-68dc0ab5985d"
+migrations_dir = "migrations"
+
+[vars]
+SITE_NAME = "PaediaSprint"
+MONTHLY_PRICE_AED = "79"
+YEARLY_PRICE_AED = "499"
+PAYMENT_PROVIDER = "payhip"
+PAYHIP_CHECKOUT_30D_URL = "https://payhip.com/order?link=dFfHl&pricing_plan=63WdAKYmzw"
+PAYHIP_PRODUCT_KEY = "dFfHl"
+PAYHIP_30D_CURRENCY = "USD"
+PAYHIP_30D_PRICE_CENTS = "2150" # CHECK your real Payhip plan price; must match exactly
+SALES_ENABLED = "false" # Merchant switch. Keep disabled until readiness checks are complete.
+EDITORIAL_APPROVED = "false" # Require qualified independent clinical review of content.
+CONTENT_RIGHTS_CONFIRMED = "false" # Confirm public bank contains original or explicitly licensed questions only.
+# Set in Cloudflare dashboard or via wrangler secret put:
+# SESSION_SECRET (min 32 chars), PAYHIP_API_KEY (private; do NOT share),
+# Optional legacy Stripe keys (unused in Payhip mode): STRIPE_SECRET_KEY, STRIPE_WEBHOOK_SECRET,
+# STRIPE_PRICE_MONTHLY, STRIPE_PRICE_YEARLY, RESEND_API_KEY,
+# EMAIL_FROM, ADMIN_EMAIL, PUBLIC_BASE_URL, SUPPORT_EMAIL
